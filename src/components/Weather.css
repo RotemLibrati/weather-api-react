@@ -1,0 +1,52 @@
+.Artboard {
+    display: flex;
+    top: 0px;
+    left: 0px;
+    width: 1366px;
+    height: 768px;
+    background: #F1F1F1 0% 0% no-repeat padding-box;
+    opacity: 1;
+    justify-content: space-around;
+  }
+
+.side-bg{
+margin-top: auto; 
+margin-bottom: auto;
+margin-left: 10%;
+margin-right: 4%;
+top: 54px;
+left: 643px;
+width: 669px;
+height: 660px;
+background: #DDE4E6 0% 0% no-repeat padding-box;
+border-radius: 4px;
+opacity: 1;
+}
+.weather-box {
+  margin-top: 11%;
+  margin-bottom: 11%;
+  margin-left: auto;
+  margin-right: auto;
+  top: 127px;
+  left: 760px;
+  width: 435px;
+  height: 514px;
+  background: #27737D 0% 0% no-repeat padding-box;
+  border-radius: 30px;
+  opacity: 1;
+}
+
+.status{
+  display: flex;
+  justify-content: center;
+  margin-top: -6%;
+  text-align: left;
+  font: normal normal 300 30px/30px Heebo;
+  letter-spacing: 0px;
+  color: #E8F1F2;
+  opacity: 1;
+}
+.sppiner {
+  display: flex;
+  justify-content: right;
+}

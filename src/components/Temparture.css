@@ -1,0 +1,34 @@
+.temp-details {
+    flex-direction: row-reverse;
+    
+  }
+  .ellips {
+    height: 12px;
+    width: 12px;
+    border-radius: 50%;
+    border: 10px solid #EFEFEF;
+    opacity: 1;
+    margin-left: 27%;
+    margin-top: 5%;
+  }
+  .ellips-field {
+    display: flex;
+    justify-content: space-evenly;
+  }
+  .temparture-field {
+    display: flex;
+    margin-block-start: -10%;
+    opacity: 1;
+    justify-content: center;
+    margin-right: 7%;
+  
+  }
+  .temparture {
+    display: flex;
+    text-align: left;
+    font: normal normal medium 130px/130px Heebo;
+    font-size: 130px;
+    letter-spacing: -16.9px;
+    color: #FFFFFF;
+    opacity: 1;
+  }

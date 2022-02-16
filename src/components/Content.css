@@ -1,0 +1,46 @@
+.content {
+    top: 69px;
+    left: 54px;
+    width: 480px;
+    height: 642px;
+    opacity: 1;
+    margin-top: 72px;
+}
+  .logo {
+    margin-left: 10%;
+    top: 69px;
+    left: 54px;
+    width: 98px;
+    height: 43px;
+    background: transparent url('../logo.svg') 0% 0% no-repeat padding-box;
+    opacity: 1;
+  }
+  .text {
+    margin-left: 20%;
+    margin-top: 17%;
+    margin-bottom: 13%;
+    top: 190px;
+    left: 103px;
+    width: 272px;
+    height: 132px;
+    text-align: left;
+    font: normal normal 300 30px/44px Heebo;
+    letter-spacing: 0px;
+    color: #707070;
+    opacity: 1;
+  }
+  .label {
+    margin-left: 20%;
+    margin-top: 10%;
+    text-align: left;
+    font: normal normal 300 16px/22px Heebo;
+    letter-spacing: 0px;
+    color: #707070;
+    opacity: 1;   
+  }
+  .wrong {
+    margin-left: 20%;
+    font: normal normal 300 16px/22px Heebo;
+    letter-spacing: 0px;
+    color: #707070;
+  }
