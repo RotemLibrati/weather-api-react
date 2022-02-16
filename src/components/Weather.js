@@ -7,9 +7,6 @@ import Header from "./Header";
 import Temparture from "./Tempature";
 import Content from "./Content";
 const Weather = () => {
-    // window.onload = function() {
-    //     document.getElementById("start").focus();
-    // }
     const [location, setLocation] = useState([]);
     const [isLoading, setIsLoading] = useState(true);
     const [currentHour, setCurrentHour] = useState();
